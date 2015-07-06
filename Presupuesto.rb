@@ -29,17 +29,17 @@ class Presupuesto
  end
 
  def mostrar
- 	return nombre_cliente + ', el presupuesto calculado es : ' + monto_presupuesto.to_s
+ 	return nombre_cliente + ', el presupuesto calculado es : ' + monto_presupuesto[0].round(2).to_s
  end 
 
 end
 
-presupuesto01 = Presupuesto.new("Miguel Grau", 2342.23)
-presupuesto02 = Presupuesto.new("Francisco Bolognesi", 3442.25)
-presupuesto03 = Presupuesto.new("Chavin de Huantar", 5542.30)
-presupuesto04 = Presupuesto.new("Alfonso Ugarte", 65462.25)
-presupuesto05 = Presupuesto.new("Perricholi Garcia", 5542.56)
-presupuesto06 = Presupuesto.new("Atahualpa Tupayachi", 8565.53)
+presupuesto01 = Presupuesto.new("Miguel Grau", [2342.24353])
+presupuesto02 = Presupuesto.new("Francisco Bolognesi", [3442.25345])
+presupuesto03 = Presupuesto.new("Chavin de Huantar", [5542.35340])
+presupuesto04 = Presupuesto.new("Alfonso Ugarte", [65462.25345])
+presupuesto05 = Presupuesto.new("Perricholi Garcia", [5542.55346])
+presupuesto06 = Presupuesto.new("Atahualpa Tupayachi", [8565.55343])
 
 
 puts "Lista de Presupuesto de clientes"
