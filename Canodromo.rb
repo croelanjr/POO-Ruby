@@ -1,3 +1,4 @@
+#encoding:UTF-8
 =begin
 Caso 2 : Un casino desea desarrollar un canódromo virtual. 
 Para ello quieren definir a cada uno de los perros corredores. 

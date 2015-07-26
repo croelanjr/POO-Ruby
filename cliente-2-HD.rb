@@ -1,3 +1,4 @@
+#encoding:UTF-8
 class Cliente
    
     attr_reader :impuesto

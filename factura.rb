@@ -1,3 +1,4 @@
+#encoding:UTF-8
 class Factura
 	def initialize(razon_social, ruc, fecha)
 		@razon_social = razon_social

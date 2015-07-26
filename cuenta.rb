@@ -1,3 +1,4 @@
+#encoding:UTF-8
 =begin
 defina una clase denominada Cuenta de un cliente de un banco, con las propiedades
  código, nombre, DNI y saldo.

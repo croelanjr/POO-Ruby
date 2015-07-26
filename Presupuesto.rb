@@ -1,3 +1,4 @@
+#encoding:UTF-8
 =begin
 Caso 4 : Una empresa de arquitectura está implementando un 
 sistema de presupuestos automáticos. Para ello requiere 

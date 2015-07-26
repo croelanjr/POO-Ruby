@@ -1,3 +1,4 @@
+#encoding:UTF-8
 class Terreno
 
   attr_accessor :area

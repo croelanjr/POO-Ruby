@@ -1,4 +1,4 @@
-
+#encoding:UTF-8
 =begin 
 
 Defina una clase denominada Cliente con las propiedades nombre y dni, 

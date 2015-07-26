@@ -1,3 +1,4 @@
+#encoding:UTF-8
 =begin
 Pregunta 1
 Desarrolle sus clases en Ruby que permita realizar el siguiente programa:

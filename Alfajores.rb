@@ -1,3 +1,4 @@
+#encoding:UTF-8
 =begin
 La tienda Azul vende solo alfajores en cajas de 10, 20 y 50 alfajores de un mismo tipo en cada caja.
  Existen tres tipos de alfajores, de “Manjar”, “Anis” y “Limeñita”

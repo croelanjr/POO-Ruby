@@ -1,3 +1,4 @@
+#encoding:UTF-8
 =begin
 Una empresa de juegos requiere realizar pruebas para una aplicación para celulares 
 que va a enviar a producción. La aplicación deberá simular el lanzamiento de dos dados.

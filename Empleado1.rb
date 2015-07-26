@@ -1,3 +1,4 @@
+#encoding:UTF-8
 =begin
 Pregunta 2
 Un ingeniero de sistemas acaba de constituir una empresa de 

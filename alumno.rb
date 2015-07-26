@@ -1,3 +1,4 @@
+#encoding:UTF-8
 class Alumno
 
 	attr_accessor :codigo, :nombre, :apellido, :pc01, :pc02, :pc03, :parcial, :final
